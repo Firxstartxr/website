@@ -82,11 +82,3 @@ li {
     font-size: 3em;
     margin-bottom: 10px;
 }
-
-#dinoGame {
-    background:#f7f7f7;
-    border: 2px solid #777;
-    margin: 40px auto;
-    display:block;
-  }
-  p.instruction { margin-top:10px; }
