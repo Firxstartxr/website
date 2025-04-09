@@ -83,25 +83,10 @@ li {
     margin-bottom: 10px;
 }
 
-.rps-section {
+#dinoGame {
+    background:#f7f7f7;
+    border: 2px solid #777;
     margin: 40px auto;
-    padding: 20px;
-    border: 2px dashed #999;
-    border-radius: 10px;
-    max-width: 400px;
-    text-align: center;
+    display:block;
   }
-  .rps-section h2 { margin-bottom: 15px; }
-  #choices button {
-    font-size: 18px;
-    padding: 8px 16px;
-    margin: 5px;
-    cursor: pointer;
-  }
-  #result {
-    margin-top: 20px;
-    font-size: 16px;
-    font-family: monospace;
-    white-space: pre-line;
-    font-weight: bold;
-  }
+  p.instruction { margin-top:10px; }
