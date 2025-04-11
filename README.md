@@ -1,1 +1,1 @@
-Co-authored by Linus Torvalds :D 
+Personal website
